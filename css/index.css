@@ -1,0 +1,60 @@
+h1 {
+  color: black;
+  font-family: sans-serif;
+}
+h2 {
+  color: rgb(17, 50, 197);
+  font-family: cursive;
+  text-align: center;
+}
+h3 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: firebrick;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 600px;
+  height: 300px;
+}
+.clima {
+  color: rgb(202, 73, 13);
+  text-align: right;
+}
+.numeros {
+  color: rgb(179, 21, 179);
+  text-align: right;
+}
+.info {
+  color: red;
+  text-align: right;
+}
+div {
+  background-color: rgb(123, 216, 247);
+  border: 5px solid blue;
+  padding: 30px;
+  margin: 30px;
+  height: 300%;
+  width: 1100px;
+}
+.divDos {
+  background-color: rgb(87, 23, 189);
+  border: 3px solid purple;
+  height: 300%;
+  width: 600px;
+}
+p {
+  color: black;
+  text-align: center;
+  font-size: 25px;
+}
+.num {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+}
+.ima2 {
+  height: 200px;
+  width: 400px;
+}
